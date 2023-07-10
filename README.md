@@ -209,10 +209,6 @@ I am having a hard time keeping up with the latest and greatest open-source LLMs
   An Extensible Toolkit for Finetuning and Inference of Large Foundation Models.
   (2023-04-06, OptimalScale)
 
-- [xturing](https://github.com/stochasticai/xturing) -
-  Build and control your own LLMs
-  (2023-04-03, stochastic.ai)
-
 ----
 
 ## Training and Quantization
@@ -220,6 +216,10 @@ I am having a hard time keeping up with the latest and greatest open-source LLMs
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed)
   Deep learning optimization library that makes distributed training and inference easy.
   (2023-04-13, Microsoft, Apache)
+  
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI)
+  Making large AI models cheaper, faster and more accessible
+  (2023-04-16, HPC-AI, Apache)
   
 - [GPTQ-for-LLaMA](https://github.com/qwopqwop200/GPTQ-for-LLaMa) -
   4 bits quantization of LLaMA using GPTQ
@@ -229,6 +229,14 @@ I am having a hard time keeping up with the latest and greatest open-source LLMs
   Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
   (2023-03-22, IST Austria Distributed Algorithms and Systems Lab)
 
+- [xturing](https://github.com/stochasticai/xturing) -
+  Build and control your own LLMs
+  (2023-04-03, stochastic.ai)
+  
+- [spaCy](https://github.com/explosion/spaCy)
+  💫 Industrial-strength Natural Language Processing (NLP) in Python 
+  (2023-04-16, Explosion.ai, MIT)
+    
 ----
 
 ## Non-English Models & Datasets
@@ -242,6 +250,18 @@ I am having a hard time keeping up with the latest and greatest open-source LLMs
   (2023-04-13, Leszek Bukowski)
   
 - [Owca](https://github.com/Emplocity/owca) is a Polish-translated dataset of instructions for fine-tuning the Alpaca model (2023-04-13, Emplocity)
+  
+----
+
+## LLM Technology for app integration
+
+- [semantic-kernel](https://github.com/microsoft/semantic-kernel)
+  Integrate cutting-edge LLM technology quickly and easily into your apps
+  (2023-04-16, Microsoft)
+  
+- [LangChain](https://github.com/hwchase17/langchain)
+  ⚡ Building applications with LLMs through composability ⚡
+  (2023-04-16, Langchain)
   
 ----
 
@@ -306,4 +326,9 @@ I am having a hard time keeping up with the latest and greatest open-source LLMs
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://react-lm.github.io/)
   (2023-03-10, Princeton & Google)
 
+----
 
+## Prompting Tools
+
+- [Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, prompt engineering)](https://github.com/aimhubio/aim)
+  (2023-04-16, [AimStack](https://aimstack.io/)
